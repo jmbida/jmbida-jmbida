@@ -26,7 +26,7 @@ Bienvenue dans mon profil Git! Je suis passionné par la technologie, et la cré
 - [**Logiciel de mssagerie**](https://github.com/jmbida/SocketLearning.git) 
   logiciel console de communication simple en langage c compatible windows et linux
 
-## 🌐 Rejoignez sur
+## 🌐 Rejoignez moi sur
 
 - [LinkedIn](https://linkedin.com/in/jean-mbida-informatique)
 
